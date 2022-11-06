@@ -21,7 +21,7 @@ const arrayOfProjects = [
     title: 'Awesome Books',
     tech: ['html', 'css', 'Javascript'],
     description:
-      'This is a simple website that displays a list of books and allows you to add and remove books from that list',
+      'This is a simple website(Desktop version) that displays a list of books and allows you to add and remove books from that list',
     live: 'https://tashisrael.github.io/awesome-books/',
     github: 'https://github.com/tashisrael/awesome-books',
   },
@@ -30,7 +30,7 @@ const arrayOfProjects = [
     title: 'To Do List Project',
     tech: ['html', 'css', 'JavaScript', 'webpack'],
     description:
-      'This is a website used to create a list of To Do tasks. This simple web page is built using webpack and served by a webpack dev server',
+      'This is a website(Desktop version) used to create a list of To Do tasks. This simple web page is built using webpack and served by a webpack dev server',
     live: 'https://tashisrael.github.io/To-Do-List/dist/',
     github: 'https://github.com/tashisrael/To-Do-List',
   },
@@ -39,7 +39,7 @@ const arrayOfProjects = [
     title: 'Savings Tracker App',
     tech: ['Java', 'Android', 'XML', 'SQLlite', 'Firebase'],
     description:
-      'This is a simple android app that helps you track your savings built for BeMW company.',
+      'This is an android app that helps you track your savings built for BeMW company.',
     live: 'https://play.google.com/store/apps/details?id=com.bemoneywiser.telekako&hl=en&gl=US',
     github: 'https://github.com/tashisrael/',
   },
@@ -48,7 +48,7 @@ const arrayOfProjects = [
     title: 'LeaderBoard Website',
     tech: ['Webpack', 'css', 'Javascript', 'html', 'Jest'],
     description:
-      'This is a website for tracking Leaderbaord scores from an API built using webpack and served by a webpack dev server. Click the refresh button after adding a score',
+      'This is a website(Desktop version) for tracking Leaderbaord scores from an API built using webpack and served by a webpack dev server. Click the refresh button after adding a score',
     live: 'https://tashisrael.github.io/LeaderBoard/dist/',
     github: 'https://github.com/tashisrael/LeaderBoard',
   },
@@ -66,7 +66,7 @@ const arrayOfProjects = [
     title: 'React TO-DO List App',
     tech: ['html', 'css', 'Javascript', 'React'],
     description:
-      'This is a todo-list application built with react. This project proves my ability to write clean Javascript code using best practices and making the UI interactive and fun to use. This application gives users the functionality to create, read, update and delete todo tasks. Tasks can also be marked as completed, and completed tasks can be cleared at a go from the list.',
+      'This is a todo-list application built with react(Desktop version). This project proves my ability to write clean Javascript code using best practices and making the UI interactive and fun to use. This application gives users the functionality to create, read, update and delete todo tasks. Tasks can also be marked as completed, and completed tasks can be cleared at a go from the list.',
     live: '',
     github: 'https://github.com/tashisrael/React-To-Do-App',
   },
@@ -75,7 +75,7 @@ const arrayOfProjects = [
     title: 'Calculator App',
     tech: ['html', 'css', 'Javascript', 'React'],
     description:
-      '"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote.',
+      '"Math magicians" is a website(Desktop version) for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote.',
     live: 'https://calculator-app-by-tash.netlify.app/',
     github: 'https://github.com/tashisrael/Math-Magicians',
   },
